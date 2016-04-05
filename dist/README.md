@@ -6,7 +6,7 @@ Snap-app is an experimental app to allow Grafana to function as a web-based fron
 - list metrics available on a snapd server
 - "Watch" tasks, where the metrics collected are pushed to a Grafana panel in real time.
 
-### Uasage
+### Usage
 The app currently includes a *snap* datasource.  
 - To get started, you will first need to add a datsource of type "Snap DS".
   - In the datasource settings, the URL should be the url of the Snapd api. eg. "http://localhost:8181/"
