@@ -1,6 +1,8 @@
 'use strict';
 
 System.register(['moment', './stream_handler'], function (_export, _context) {
+  "use strict";
+
   var moment, StreamHandler, _createClass, SnapDatasource;
 
   function _classCallCheck(instance, Constructor) {

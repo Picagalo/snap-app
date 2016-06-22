@@ -1,6 +1,8 @@
 'use strict';
 
 System.register(['./datasource', './config', './query_editor'], function (_export, _context) {
+  "use strict";
+
   var SnapDatasource, ConfigCtrl, SnapQueryCtrl;
   return {
     setters: [function (_datasource) {

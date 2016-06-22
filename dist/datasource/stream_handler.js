@@ -1,6 +1,8 @@
 'use strict';
 
 System.register(['moment', 'vendor/npm/rxjs/Subject'], function (_export, _context) {
+  "use strict";
+
   var moment, Subject, _createClass, StreamHandler;
 
   function _classCallCheck(instance, Constructor) {

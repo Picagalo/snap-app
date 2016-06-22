@@ -1,6 +1,8 @@
 'use strict';
 
 System.register(['app/plugins/sdk', 'lodash'], function (_export, _context) {
+  "use strict";
+
   var QueryCtrl, _, _createClass, SnapQueryCtrl;
 
   function _classCallCheck(instance, Constructor) {

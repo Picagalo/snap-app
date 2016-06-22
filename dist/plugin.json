@@ -1,6 +1,6 @@
 {
   "type": "app",
-  "name": "Snap App",
+  "name": "Snap",
   "id": "raintank-snap-app",
 
   "staticRoot": ".",
@@ -12,7 +12,7 @@
       "url": "http://raintank.io"
     },
     "keywords": ["snap"],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "updated": "2016-03-28",
     "logos": {
       "small": "src/img/snap-small.png",
