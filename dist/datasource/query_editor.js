@@ -66,7 +66,7 @@ System.register(['app/plugins/sdk', 'lodash'], function (_export, _context) {
         function SnapQueryCtrl($scope, $injector, uiSegmentSrv) {
           _classCallCheck(this, SnapQueryCtrl);
 
-          var _this = _possibleConstructorReturn(this, Object.getPrototypeOf(SnapQueryCtrl).call(this, $scope, $injector));
+          var _this = _possibleConstructorReturn(this, (SnapQueryCtrl.__proto__ || Object.getPrototypeOf(SnapQueryCtrl)).call(this, $scope, $injector));
 
           _this.uiSegmentSrv = uiSegmentSrv;
           _this.removeMetricOption = _this.uiSegmentSrv.newSegment({ fake: true, value: '-- remove metric --' });
