@@ -1,6 +1,6 @@
 Snap-app is an experimental application to allow Grafana to function as a web-based frontend for [The Snap Telemetry Framework](https://github.com/intelsdi-x/snap).
 
-![](https://cloud.githubusercontent.com/assets/1744971/20331694/e07e9148-ab5b-11e6-856a-e4e956540077.png =70%)
+![](https://cloud.githubusercontent.com/assets/1744971/20331694/e07e9148-ab5b-11e6-856a-e4e956540077.png)
 
 ## Current Features
 - list Snap tasks running on a the Snap daemon
