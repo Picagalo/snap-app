@@ -60,7 +60,6 @@ export class SnapDatasource {
         collect: {
         }
       },
-      publish: []
     };
 
     task.workflow.collect.metrics = target.metrics.reduce((memo, metric) => {

@@ -99,8 +99,7 @@ System.register(['moment', './stream_handler'], function (_export, _context) {
               },
               workflow: {
                 collect: {}
-              },
-              publish: []
+              }
             };
 
             task.workflow.collect.metrics = target.metrics.reduce(function (memo, metric) {
