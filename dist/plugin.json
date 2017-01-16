@@ -10,8 +10,8 @@
       "url": "http://raintank.io"
     },
     "keywords": ["snap"],
-    "version": "0.0.4",
-    "updated": "2016-03-28",
+    "version": "0.0.5",
+    "updated": "2017-01-16",
     "logos": {
       "small": "src/img/snap-small.png",
       "large": "src/img/snap-large.png"
